@@ -92,6 +92,7 @@ section {
 }
 
 .footer {
+    
 	display: flex;
     width: 25%;
 	flex-direction: column;
@@ -100,6 +101,7 @@ section {
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     text-align: center;
 	background-color: #e8e9ea;
+    margin-left: 5%;
 }
 
 .footer h2 {
