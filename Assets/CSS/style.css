@@ -37,6 +37,7 @@
 
 .header nav ul li {
     display: inline-block;
+    align-items: center;
     margin-left: 25px;
 }
 
@@ -60,11 +61,13 @@ p {
     background-position: center;
 }
 .float-left {
+    width: 50%;
     float: left;
     margin-right: 25px;
 }
 
 .float-right {
+    width: 50%;
     float: right;
     margin-left: 25px;
 }
